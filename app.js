@@ -19,3 +19,5 @@ for (let y = 0, y <= 10001; y++) {
     alert("The loop is done!");
   }
 }
+
+//Finally write an array of your top 5 favorite tv shows (make them up if you don't have any) Loop through the array of your top 5 favorite tv shows and log to the console the following message each loop:"My # favorite tv show is "
